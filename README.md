@@ -1,4 +1,6 @@
-Taskify using a full-stack producity application built using Next.js 13, React, Convex, Tailwind 
+![Taskify Banner](TASKIFY.png)
+
+Taskify is a full-stack producity application built using Next.js 13, React, Convex and Tailwind 
 
 Key Features:
 
