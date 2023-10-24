@@ -1,4 +1,4 @@
-![Taskify Banner](TASKIFY.png)
+![Taskify Banner](<TASKIFY (1).png>)
 
 Taskify is a full-stack producity application built using Next.js 13, React, Convex and Tailwind 
 
